@@ -22,7 +22,7 @@ function Sidebar() {
           height={50}
         />
       </div>
-      <div className="space-y-2.5 mt-4 mb-2.5 xl:ml-24">
+      <div className=" mt-4 mb-2.5 xl:ml-24">
         <SidebarLink text="Home" Icon={HomeIcon} active />
         <SidebarLink text="Explore" Icon={HashtagIcon} />
         <SidebarLink text="Notifications" Icon={BellIcon} />
@@ -39,7 +39,7 @@ function Sidebar() {
         <img
           src="https://www.adscientificindex.com/pictures/0b/50734.jpg"
           alt=""
-          className="h-10 w-10 rounded-full xl:mr-2.5"
+          className="h-10 w-10 rounded-full xl:mr-2.5 "
         />
         <div className="hidden xl:inline leading-5">
           <h4 className="font-bold">Sahand Ghavidel</h4>
