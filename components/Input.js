@@ -25,11 +25,11 @@ function Input() {
         <div className="flex items-center justify-between pt-2.5">
           <div className="flex items-center">
             <div className="icon">
-              <PhotographIcon className="text-[#1d9bf0] h-[22px]" />
+              <PhotographIcon className="text-[#1d9bf0] h-[22px] " />
             </div>
 
             <div className="icon">
-              <EmojiHappyIcon className="text-[#1d9bf0] h-[22px]" />
+              <EmojiHappyIcon className="text-[#1d9bf0] h-[22px] " />
             </div>
           </div>
           <button className="bg-[#1d9bf0] text-white rounded-full px-4 py-1.5 font-bold shadow-md hover:bg-[#1a8cd8] disabled:hover:bg-[#1d9bf0] disabled:opacity-50 disabled:cursor-default">
