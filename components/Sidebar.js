@@ -15,7 +15,7 @@ import SidebarLink from "./SidebarLink";
 function Sidebar() {
   return (
     <div className="hidden sm:flex flex-col items-center xl:items-start xl:w-[340px] p-2 fixed h-full">
-      <div className="flex items-center justify-center w-14 h-14 hoverAnimation p-0 xl:ml-24 hover:bg-blue-100">
+      <div className="icon flex items-center justify-center w-14 h-14  p-0 xl:ml-24">
         <Image
           src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png"
           width={50}
